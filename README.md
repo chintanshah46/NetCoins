@@ -28,3 +28,6 @@ Create an API that allows a user to place an order to buy or sell cryptocurrency
 - Create migrations for the database diagram above.
 - Implement an API endpoint that creates a Trade, and its Details, and responds to the user with a JSON representation of their completed transaction.
 - Implement a third party service to pull the live price from and use this value as the "cost". You may use any provider of your choice, or you can use the free. API provided by CoinGecko: https://www.coingecko.com/en/api/documentation.
+
+## Sample Result:
+![image](https://github.com/chintanshah46/NetCoins/assets/58828374/ac01394d-d946-496c-83c5-d2ed898044ba)
